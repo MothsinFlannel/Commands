@@ -1,0 +1,3 @@
+Place the "Stay Awake Fix" folder into "C:\Program Files (x86)\Student Conductor"
+
+Copy "Stay Awake Fix" shortcut (inside folder) to the Desktop
